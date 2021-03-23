@@ -19,3 +19,8 @@ textures/Aluminium_Capsule_Metallic.png filter=lfs diff=lfs merge=lfs -text
 textures/Aluminium_Capsule_Roughness.png filter=lfs diff=lfs merge=lfs -text
 textures/Aluminium_Pieces_Base_Color.png filter=lfs diff=lfs merge=lfs -text
 textures/Darker_Aluminium_Metallic.png filter=lfs diff=lfs merge=lfs -text
+moon_sequence.blend filter=lfs diff=lfs merge=lfs -text
+textures/8k_earth_normal_map.tif filter=lfs diff=lfs merge=lfs -text
+textures/8k_earth_specular_map.tif filter=lfs diff=lfs merge=lfs -text
+textures/ldem_16_uint.tif filter=lfs diff=lfs merge=lfs -text
+textures/lroc_color_poles_8k.tif filter=lfs diff=lfs merge=lfs -text
